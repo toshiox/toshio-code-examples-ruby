@@ -1,0 +1,3 @@
+To run this tests, exec in your terminal "rspec library_specs.rb" on the path 'your-dir/toshio-code-examples-ruby/library'.
+
+If you dont have the lib rspec exec first "gem install rspec".
